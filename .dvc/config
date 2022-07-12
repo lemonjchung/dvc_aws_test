@@ -1,0 +1,2 @@
+['remote "test"']
+    url = s3://yeons-test-bucket/dot/
